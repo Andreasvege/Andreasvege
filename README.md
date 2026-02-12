@@ -1,6 +1,6 @@
 # Andreas Hjorthaug Vege
 Nyutdannet Dataingeniør ved OsloMet med lidenskap for full-stack utvikling, radio og mye mer!
-- 💼 Søker full-stack utvikler stillinger
+- 💼 Søker fullstack-utvikler stillinger
 - 🎓 OsloMet Dataingeniør Bachelorgrad (2025)
 - 🏗️ Jobber for tiden på **[Novafest](https://github.com/Andreasvege/Novafest)** - en nettside for Radio Nova's årlige musikkfestival
 - 📻 Tidligere prosjektleder og nåværende medlem i Skumma Kultur, Radio Nova
