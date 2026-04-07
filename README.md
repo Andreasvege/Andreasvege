@@ -19,11 +19,12 @@ Nyutdannet Dataingeniør ved OsloMet med lidenskap for full-stack utvikling, rad
 Festival-website for Radio Nova bygget med Next.js 16, TypeScript, Tailwind 4, og Prisma + PostgreSQL. Håndterer påmelding, program og info for studentfestivalen.  
 🌐 [novafest.no](https://www.novafest.no)
 
+### [Svart-hvitt TV Dashboard](https://github.com/Andreasvege/Svart-hvitt-TV_Skjermsparer)
+MagicMirror-inspirert dashboard for gammel svart-hvitt TV. Viser sanntidsinformasjon som klokke, vær og kalender i et minimalistisk grensesnitt.
+
 ### [QuestLogd](https://github.com/andreasvege/questlogd)
 Letterboxd-inspirert webapp for logging og anmeldelse av spill. Læringsprosjekt for å utforske C#, .NET Core og AI-assistert utvikling.
 
-### [Svart-hvitt TV Dashboard](https://github.com/Andreasvege/Svart-hvitt-TV_Skjermsparer)
-MagicMirror-inspirert dashboard for gammel svart-hvitt TV. Viser sanntidsinformasjon som klokke, vær og kalender i et minimalistisk grensesnitt.
 
 ### Andre prosjekter
 - Weather Dashboard med MET API
