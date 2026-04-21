@@ -18,7 +18,7 @@ Nyutdannet dataingeniør fra OsloMet med lidenskap for fullstack-utvikling, radi
 ## 📂 Utvalgte prosjekter
 
 ### [Novafest](https://github.com/Andreasvege/Novafest)
-Festivalnettside for Radio Nova bygget med Next.js 16, TypeScript, Tailwind 4 og Prisma + PostgreSQL. Håndterer påmelding, program og info for studentfestivalen.  
+Festivalnettside for Novafest 2026 — Radio Novas årlige musikkfestival i Oslo. Bygget med Next.js (App Router), TypeScript, TailwindCSS og Prisma + PostgreSQL. Viser hovedside, artistliste, egne sider for hver artist, program, informasjon om festivalen og Radio Nova og lenker til billettsalg.  
 🌐 [novafest.no](https://www.novafest.no)
 
 ### [Svart-hvitt TV-dashboard](https://github.com/Andreasvege/Svart-hvitt-TV_Skjermsparer)
