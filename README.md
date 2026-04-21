@@ -1,12 +1,14 @@
 # Andreas Hjorthaug Vege
-Nyutdannet Dataingeniør ved OsloMet med lidenskap for full-stack utvikling, radio og mye mer!
-- 💼 Søker fullstack-utvikler stillinger
-- 🎓 OsloMet Dataingeniør Bachelorgrad (2025)
-- 🏗️ Jobber for tiden på **[Novafest](https://github.com/Andreasvege/Novafest)** - en nettside for Radio Nova's årlige musikkfestival
-- 📻 Tidligere prosjektleder og nåværende medlem i Skumma Kultur, Radio Nova
-- 🎮 Liker musikk, film, gaming og alt data!
+Nyutdannet dataingeniør fra OsloMet med lidenskap for fullstack-utvikling, radio og mye mer!
 
-## 🛠️ Tech Stack
+- 💼 Søker fullstack-utviklerstillinger
+- 🎓 Bachelorgrad i dataingeniør, OsloMet (2025)
+- 🏗️ Jobber for tiden med **[Novafest](https://github.com/Andreasvege/Novafest)** – nettside for Radio Novas årlige musikkfestival
+- 📻 Tidligere prosjektleder og nåværende medlem i Skumma Kultur, Radio Nova
+- 🎮 Interessert i musikk, film, gaming og alt innen data
+
+## 🛠️ Teknologi
+
 **Språk:** TypeScript, Java, C#, Python, SQL, JavaScript  
 **Frontend:** Next.js, React, Tailwind CSS  
 **Backend:** ASP.NET Core (MVC & Blazor), Node.js  
@@ -16,22 +18,21 @@ Nyutdannet Dataingeniør ved OsloMet med lidenskap for full-stack utvikling, rad
 ## 📂 Utvalgte prosjekter
 
 ### [Novafest](https://github.com/Andreasvege/Novafest)
-Festival-website for Radio Nova bygget med Next.js 16, TypeScript, Tailwind 4, og Prisma + PostgreSQL. Håndterer påmelding, program og info for studentfestivalen.  
+Festivalnettside for Radio Nova bygget med Next.js 16, TypeScript, Tailwind 4 og Prisma + PostgreSQL. Håndterer påmelding, program og info for studentfestivalen.  
 🌐 [novafest.no](https://www.novafest.no)
 
-### [Svart-hvitt TV Dashboard](https://github.com/Andreasvege/Svart-hvitt-TV_Skjermsparer)
-MagicMirror-inspirert dashboard for gammel svart-hvitt TV. Viser sanntidsinformasjon som klokke, vær og kalender i et minimalistisk grensesnitt.
+### [Svart-hvitt TV-dashboard](https://github.com/Andreasvege/Svart-hvitt-TV_Skjermsparer)
+MagicMirror-inspirert dashboard for gammel svart-hvitt-TV. Viser sanntidsinformasjon som klokke, vær og kalender i et minimalistisk grensesnitt.
 
 ### [QuestLogd](https://github.com/andreasvege/questlogd)
-Letterboxd-inspirert webapp for logging og anmeldelse av spill. Læringsprosjekt for å utforske C#, .NET Core og AI-assistert utvikling.
-
+Letterboxd-inspirert webapp for logging og anmeldelse av spill. Læringsprosjekt for å utforske C#, .NET Core og KI-assistert utvikling.
 
 ### Andre prosjekter
-- Weather Dashboard med MET API
-- Twitter-inspirert note/image sharing system
+- Værdashboard med MET API
+- Twitter-inspirert system for deling av notater og bilder
 
 ## 🎯 Hva jeg ser etter
-Jeg leter etter en full-stack stilling hvor jeg kan jobbe med moderne teknologi, lære av erfarne utviklere, og bidra til meningsfulle prosjekter. Spesielt interessert i roller hos bedrifter med fokus på bærekraft, klima og menneskerettigheter.
+Jeg ser etter en fullstack-stilling hvor jeg kan jobbe med moderne teknologi, lære av erfarne utviklere og bidra til meningsfulle prosjekter. Spesielt interessert i roller hos bedrifter med fokus på bærekraft, klima og menneskerettigheter.
 
 ## 📫 Kontakt
 - 💼 [LinkedIn](https://www.linkedin.com/in/andreas-hjorthaug-vege-a63560142/)
