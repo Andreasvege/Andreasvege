@@ -24,7 +24,7 @@ Festivalnettside for Novafest 2026 — Radio Novas årlige musikkfestival i Oslo
 ### [Svart-hvitt TV-dashboard](https://github.com/Andreasvege/Svart-hvitt-TV_Skjermsparer)
 MagicMirror-inspirert dashboard for gammel svart-hvitt-TV. Viser sanntidsinformasjon som klokke, vær og kalender i et minimalistisk grensesnitt.
 
-### [Pomodoro Timer] (https://github.com/Andreasvege/PomodoroTimer)
+### [Pomodoro Timer](https://github.com/Andreasvege/PomodoroTimer)
 Arbeidsklokke for å holde fokuset enten ved jobb eller studie. 25 minutters intervaller med 5 minutters pauser.
 
 ### [QuestLogd](https://github.com/andreasvege/questlogd)
