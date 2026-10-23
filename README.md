@@ -2,7 +2,7 @@
 
 Dataingeniør fra OsloMet. Jobber som Fullstack AI Ingeniør hos [Brave](https://thebrave.no) og lager fullstack-apper på fritiden. Liker best å bygge ting folk faktisk bruker.
 
-- 💼 Fullstack AI Engineer og tech-konsulent hos The Brave
+- 💼 Fullstack AI Ingeniør og tech-konsulent hos Brave
 - 🎓 Bachelorgrad som Dataingeniør, OsloMet (2025)
 - 📻 Tidligere prosjektleder og grunnlegger for Novaaksjonen hos Radio Nova. Samt tidligere redaksjonsleder og nå medlem i Skumma Kultur, Radio Nova
 - 🎮 Interessert i musikk, film, gaming og alt innen data
@@ -18,9 +18,9 @@ Dataingeniør fra OsloMet. Jobber som Fullstack AI Ingeniør hos [Brave](https:/
 
 ## 💼 Hos Brave
 
-The Brave er et byrå som hjelper bedrifter med salg og markedsføring. Der jobber jeg med interne verktøy og produkter:
+Brave er et byrå som hjelper bedrifter med salg og markedsføring. Der jobber jeg med interne verktøy og produkter:
 
-- **Salestoolset**: et salgsverktøy for konsulenter som ringer mange potensielle kunder, på vegne av flere klienter. Jeg har jobbet mye med samtalesiden, oppfølging av kunder, samt hatt overordnet ansvar for AI funksjonene. Disse inkluderer: AI-oppsummeringer av samtaler, live coach som veileder konsulenter gjennom salgssamtaler, prospekt-oppsummeringer som henter ut relevant informasjon om bedrifter, oppsummering av tidligere samtaler, og utfallprediksjon av salgssamtaler. Også bygget et fult telemetri-system som gir administratorer oversikt over hvordan systemet brukes, hvor det går galt, og hvem som bruker hvilke funksjoner. Inkluderer også AI-kost-oversikt og analyse. Next.js, TypeScript og AWS, med Claude API for AI-funksjonene.
+- **Salestoolset**: et salgsverktøy for konsulenter som ringer mange potensielle kunder, på vegne av flere klienter. Jeg har jobbet mye med samtalesiden, oppfølging av kunder, samt hatt overordnet ansvar for AI funksjonene. Disse inkluderer: AI-oppsummeringer av samtaler, live coach som veileder konsulenter gjennom salgssamtaler, prospekt-oppsummeringer som henter ut relevant informasjon om bedrifter, oppsummering av tidligere samtaler, og utfallprediksjon av salgssamtaler. Også bygget et fullt telemetri-system som gir administratorer oversikt over hvordan systemet brukes, hvor det går galt, og hvem som bruker hvilke funksjoner. Inkluderer også AI-kost-oversikt og analyse. Next.js, TypeScript og AWS, med Claude API for AI-funksjonene.
 - **Vekstprofil**: et spørreskjema kundene fyller ut når de starter hos oss, slik at vi kan måle utgangspunktet og vise veksten over tid. Kundene får en egen lenke uten innlogging, og admin-siden har maler, spørsmålsbank og grafer over svarene. Next.js, Prisma og PostgreSQL.
 
 ## 📂 Utvalgte prosjekter
