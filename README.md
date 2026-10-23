@@ -1,46 +1,56 @@
 # Andreas Hjorthaug Vege
-Nyutdannet dataingeniør fra OsloMet med lidenskap for fullstack-utvikling, radio og mye mer!
 
-- 💼 Ansatt som utvikler og tech-konsulent hos Brave
-- 🎓 Bachelorgrad i dataingeniør, OsloMet (2025)
-- 🏗️ Jobber for tiden med utvikling av AI og Salgsverktøy hos Brave
-- 📻 Tidligere prosjektleder og nåværende medlem i Skumma Kultur, Radio Nova
+Dataingeniør fra OsloMet. Jobber som Fullstack AI Ingeniør hos [Brave](https://thebrave.no) og lager fullstack-apper på fritiden. Liker best å bygge ting folk faktisk bruker.
+
+- 💼 Fullstack AI Engineer og tech-konsulent hos The Brave
+- 🎓 Bachelorgrad som Dataingeniør, OsloMet (2025)
+- 📻 Tidligere prosjektleder og grunnlegger for Novaaksjonen hos Radio Nova. Samt tidligere redaksjonsleder og nå medlem i Skumma Kultur, Radio Nova
 - 🎮 Interessert i musikk, film, gaming og alt innen data
 
 ## 🛠️ Teknologi
 
-**Språk:** TypeScript, Java, C#, Python, SQL, JavaScript  
+**Språk:** TypeScript, JavaScript, Java, C#, Python, SQL  
 **Frontend:** Next.js, React, Tailwind CSS  
-**Backend:** ASP.NET Core (MVC & Blazor), Node.js  
-**Database:** SQLite, PostgreSQL, Prisma, Drizzle ORM  
-**Verktøy:** Git, Visual Studio Code, Claude Code, Figma, Unix
+**Backend:** Node.js, ASP.NET Core (MVC & Blazor), AWS (Lambda, DynamoDB)  
+**Database:** PostgreSQL, SQLite, Prisma, Drizzle ORM  
+**Testing:** Vitest, Playwright  
+**Verktøy:** Git, Vercel, Figma, Claude Code, Unix
+
+## 💼 Hos Brave
+
+The Brave er et byrå som hjelper bedrifter med salg og markedsføring. Der jobber jeg med interne verktøy og produkter:
+
+- **Salestoolset**: et salgsverktøy for konsulenter som ringer mange potensielle kunder, på vegne av flere klienter. Jeg har jobbet mye med samtalesiden, oppfølging av kunder, samt hatt overordnet ansvar for AI funksjonene. Disse inkluderer: AI-oppsummeringer av samtaler, live coach som veileder konsulenter gjennom salgssamtaler, prospekt-oppsummeringer som henter ut relevant informasjon om bedrifter, oppsummering av tidligere samtaler, og utfallprediksjon av salgssamtaler. Også bygget et fult telemetri-system som gir administratorer oversikt over hvordan systemet brukes, hvor det går galt, og hvem som bruker hvilke funksjoner. Inkluderer også AI-kost-oversikt og analyse. Next.js, TypeScript og AWS, med Claude API for AI-funksjonene.
+- **Vekstprofil**: et spørreskjema kundene fyller ut når de starter hos oss, slik at vi kan måle utgangspunktet og vise veksten over tid. Kundene får en egen lenke uten innlogging, og admin-siden har maler, spørsmålsbank og grafer over svarene. Next.js, Prisma og PostgreSQL.
 
 ## 📂 Utvalgte prosjekter
 
+### [Vennd (Tidligere, 'Vennekart')](https://github.com/Andreasvege/Vennekart)
+En dagbok over folka du kjenner. Skriv ned et treff på under et halvt minutt, så ser du neste gang hva du lurte på sist. Et kart viser vennekretsen din på tre måter, blant annet hvem du ikke har sett på en stund. Claude foreslår ting å følge opp etter hver logg, men ingenting lagres før du har sagt ja. Next.js, TypeScript, Prisma, PostgreSQL og Claude API.  
+🌐 [vennekart.vercel.app](https://vennekart.vercel.app)
+
+### [Stå på!](https://github.com/Andreasvege/StandingChallenge)
+En intern konkurranse for kontoret: hvem av oss 17 står mest ved ståpulten? Alle ser det samme pikselkontoret med hvem som står og hvem som sitter, og ledertavler for dagen og uka. Kollegaer kan sende heiarop, været fra MET vises i vinduene, og kontorplanten vokser jo mer vi står sammen. Next.js, Drizzle ORM, PostgreSQL og Google-innlogging.
+
 ### [Novafest](https://github.com/Andreasvege/Novafest)
-Festivalnettside for Novafest 2026 — Radio Novas årlige musikkfestival i Oslo. Bygget med Next.js (App Router), TypeScript, TailwindCSS og Prisma + PostgreSQL. Viser hovedside, artistliste, egne sider for hver artist, program, informasjon om festivalen og Radio Nova og lenker til billettsalg.  
+Nettside for Novafest 2026, Radio Novas årlige musikkfestival i Oslo. Artistliste, egne sider for hver artist, program, praktisk info og lenker til billettsalg. Next.js, TypeScript, Tailwind CSS, Prisma og PostgreSQL.  
 🌐 [novafest.no](https://www.novafest.no)
 
-### [Svart-hvitt TV-dashboard](https://github.com/Andreasvege/Svart-hvitt-TV_Skjermsparer)
-MagicMirror-inspirert dashboard for gammel svart-hvitt-TV. Viser sanntidsinformasjon som klokke, vær og kalender i et minimalistisk grensesnitt.
-
 ### [Pomodoro Timer](https://github.com/Andreasvege/PomodoroTimer)
-Arbeidsklokke for å holde fokuset enten ved jobb eller studie. 25 minutters intervaller med 5 minutters pauser.
+Fokusklokke med 70-tallsdesign. 25 minutter arbeid, 5 minutter pause.  
+🌐 [Prøv den](https://pomodoro-timer-ten-plum.vercel.app)
 
-### [QuestLogd](https://github.com/andreasvege/questlogd)
-Letterboxd-inspirert webapp for logging og anmeldelse av spill. Læringsprosjekt for å utforske C#, .NET Core og KI-assistert utvikling.
+### [Svart-hvitt TV-dashboard](https://github.com/Andreasvege/Svart-hvitt-TV_Skjermsparer)
+Skjermsparer for en gammel svart-hvitt-TV, inspirert av MagicMirror. Viser klokke, vær og kalender i et enkelt grensesnitt.
+
+### [QuestLogd](https://github.com/Andreasvege/Questlogd)
+Letterboxd for spill: logg og anmeld spill du har spilt, spiller eller vil spille. Læringsprosjekt i C# og .NET. Gikk aldri forbi demo-stadiet, men var verdifull læring for utvikling med Claude Code.
 
 ### Andre prosjekter
+- [Bachelorprosjekt for Optinn](https://github.com/Andreasvege/OptinnBachelor), OsloMet 2025
 - Værdashboard med MET API
-- Twitter-inspirert system for deling av notater og bilder
-
+- Twitter-inspirert app for deling av notater og bilder
 
 ## 📫 Kontakt
 - 💼 [LinkedIn](https://www.linkedin.com/in/andreas-hjorthaug-vege-a63560142/)
 - 📧 andyvege@gmail.com
-
----
-
-<!--
-**Andreasvege/Andreasvege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
